@@ -1,0 +1,95 @@
+@font-face {
+  font-family: fuenteTOP;
+  src: url(../fonts/Killer\ College.otf);
+}
+@font-face {
+  font-family: fuenteMAIN;
+  src: url(../fonts/BLASTIMO\ SANS.ttf);
+}
+@font-face {
+  font-family: fuenteSEL;
+  src: url(../fonts/VarsityTeam-Bold.otf);
+}
+@font-face {
+  font-family: fuenteSEL2;
+  src: url(../fonts/Academy.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f33339 !important;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+header h1 {
+  color: #f33339;
+  font-family: fuenteTOP;
+  font-size: 4em;
+}
+
+main {
+  cursor: grab;
+  border-radius: 20px;
+  width: 100%;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: rgb(241, 239, 239);
+}
+
+img {
+  border-radius: 15px;
+  border: 17px solid #f33339;
+}
+
+h2 {
+  color: white !important;
+  font-size: 3em !important;
+  line-height: 25px !important;
+  font-family: fuenteMAIN;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f33339;
+}
+
+.rl {
+  margin-top: 50px !important;
+  margin-bottom: 50px;
+}
+
+select {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  font-family: fuenteSEL !important;
+  height: 60px !important;
+  padding: 20px !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.options {
+  font-family: fuenteSEL;
+  text-align: center;
+  height: 600px !important;
+  padding: 120px 0 !important;
+  margin-bottom: 10px;
+  color: red;
+}
+
+.swal2-title {
+  font-family: fuenteSEL2;
+  height: 100px;
+  text-align: center;
+}
+
+button {
+  background-color: red !important;
+}/*# sourceMappingURL=estilos.css.map */

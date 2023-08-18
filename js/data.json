@@ -1,0 +1,127 @@
+[
+    {
+        "nombre": "Ricardo Bochini",
+        "posicion": "Delantero",
+        "goles": 97,
+        "epoca": "Pasada",
+        "imagen": "./img/bochini.png",
+        "detallesDiv":"Ricardo Bochini hizo toda su carrera en Independiente y, consecuentemente, cuenta con una imponente cantidad de partidos disputados en el club: 706, repartidos en un lapso de 19 años (1972 a 1991). El Bocha fue el protagonista que más títulos ganó en Independiente. Fueron 13 conquistas, en donde pudo llevar al elenco de Avellaneda a la cúspide mundial."
+    },
+    {
+        "nombre": "Ricardo Pavoni",
+        "posicion": "Defensor",
+        "goles": 65,
+        "epoca": "Pasada",
+        "imagen": "./img/pavoni.png",
+        "detallesDiv": "Ricardo Pavoni aparece como el segundo futbolista que más veces vistió la camiseta de Independiente: llegó a la cifra abultada de 500 partidos en el conjunto de Avellaneda. El uruguayo ganó 12 campeonatos, teniendo incidencia tanto a nivel local como internacional."
+        
+    },
+    {
+        "nombre": "Arsenio Erico",
+        "posicion": "Delantero",
+        "goles": 295,
+        "epoca": "Pasada",
+        "imagen": "./img/erico.png",
+        "detallesDiv": "El legado de Arsenio Erico va más allá de un club, ya que posee el récord de ser el máximo goleador en la historia de la Primera División Argentina. Aún así, ahora vamos a centrarnos puntualmente en Independiente en donde jugó 325 encuentros. Dejó su huella en las redes, pero también en las vitrinas. Es gran responsable del lugar relevante que ocupa la institución a nivel mundial y tuvo la posibilidad de formar parte de 7 títulos de Independiente."
+        
+    },
+    {
+        "nombre": "Sergio Agüero",
+        "posicion": "Delantero",
+        "goles": 23,
+        "epoca": "Actual",
+        "imagen": "./img/aguero.png",
+        "detallesDiv": "​La carrera de Agüero comienza en el club de sus amores, Independiente. Dirigido por Oscar Ruggeri, el Kun se transformó en el jugador más joven en debutar en Primera División en el fútbol argentino superando a su ex yerno Diego Armando Maradona."
+        
+    },
+    {
+        "nombre": "Miguel Ángel Santoro",
+        "posicion": "Arquero",
+        "goles": "Desconozco",
+        "epoca": "Pasada",
+        "imagen": "./img/santoro.png",
+        "detallesDiv": "Miguel Ángel Santoro es el arquero con mayor cantidad de presencias en Independiente con un total de 394. De hecho, está en el top 5 de todos los jugadores que lucieron la camiseta del club. Miguel Ángel Santoro es el futbolista en dicha posición que más títulos obtuvo con la institución."
+        
+    },
+    {
+        "nombre": "Nicolas Tagliafico",
+        "posicion": "Defensor",
+        "goles": 14,
+        "epoca": "Actual",
+        "imagen": "./img/tagliafico.png",
+        "detallesDiv": "En enero de 2018, Nicolás Tagliafico se unió al Club Atlético Independiente, uno de los clubes más grandes y exitosos de Argentina. En Independiente, continuó demostrando su habilidad tanto en defensa como en ataque. Fue parte del equipo que ganó la Copa Sudamericana en 2017, un título importante en el continente sudamericano."
+        
+    },
+    {
+        "nombre": "Diego Forlán",
+        "posicion": "Delantero",
+        "goles": 37,
+        "epoca": "Actual",
+        "imagen": "./img/forlan.png",
+        "detallesDiv": "Diego Forlán, el famoso delantero uruguayo, tuvo un exitoso paso por el Club Atlético Independiente en Argentina antes de consolidar su carrera en Europa. Después de su paso por Independiente, Diego Forlán continuó su carrera en clubes europeos, como el Manchester United, el Villarreal, el Atlético de Madrid y otros, donde también se destacó por su capacidad goleadora. Además, tuvo una destacada actuación en la selección de Uruguay, participando en varias ediciones de la Copa del Mundo y siendo parte fundamental en el equipo que llegó a las semifinales en la Copa del Mundo 2010."
+        
+    },
+    {
+        "nombre": "Luis Islas",
+        "posicion": "Arquero",
+        "goles": "Desconozco",
+        "epoca": "Pasada",
+        "imagen": "./img/islas.png",
+        "detallesDiv": "Islas es recordado por su participación en el arco del Independiente durante los años 1980 y 1990. Durante su tiempo en el club, logró varios éxitos, incluyendo títulos de la Primera División argentina y la Copa Libertadores. Islas también formó parte del plantel que ganó la Copa Intercontinental en 1984, un logro significativo para el club."
+        
+    },
+    {
+        "nombre": "Gabriel Milito",
+        "posicion": "Defensor",
+        "goles": 3,
+        "epoca": "Pasada",
+        "imagen": "./img/milito.png",
+        "detallesDiv": "Gabriel Milito era un defensor central que se destacó por su inteligencia táctica, habilidades defensivas y liderazgo en el campo. Comenzó su carrera en el fútbol profesional en el Club Atlético Independiente, debutando en el prim"
+        
+    },
+    {
+        "nombre": "Palomo Usuriaga",
+        "posicion": "Delantero",
+        "goles": 20,
+        "epoca": "Pasada",
+        "imagen": "./img/usuriaga.png",
+        "detallesDiv": "Usuriaga defendió la camiseta de Independiente durante 1994 y 1997, en los cuales disputó 63 partidos, metió un total de 20 goles y ganó tres títulos (el Torneo Clausura y dos Supercopa)."
+        
+    },
+    {
+        "nombre": "Jorge Burruchaga",
+        "posicion": "Mediocampo",
+        "goles": 81,
+        "epoca": "Pasada",
+        "imagen": "./img/burruchaga.png",
+        "detallesDiv": "Burruchaga tuvo una destacada carrera en el fútbol, y una parte importante de su éxito se debió a su paso por Independiente. Jugó en el club en diferentes etapas, comenzando en 1982 y luego regresando en 1993. Durante su tiempo en Independiente, Burruchaga se convirtió en una figura importante en el mediocampo y como delantero. Fue parte fundamental en varios logros significativos para el club:"
+        
+    },
+    {
+        "nombre": "José Pastoriza",
+        "posicion": "Mediocampo",
+        "goles": 32,
+        "epoca": "Pasada",
+        "imagen": "./img/",
+        "detallesDiv": "José Omar Pastoriza, conocido como El Pato, fue un reconocido futbolista y entrenador argentino. Jugó en diferentes etapas para el Club Atlético Independiente y también fue entrenador del equipo.  Su contribución al equipo se centraba más en su habilidad táctica, liderazgo en el campo y su rol como mediocampista. "
+        
+    },
+    {
+        "nombre": "Dibu Martínez",
+        "posicion":"Arquero",
+        "goles": "Desconozco",
+        "epoca": "Actual",
+        "imagen": "./img/dibu.png",
+        "detallesDiv": "Ante la atenta mirada de Pepé Santoro, Emiliano se probó a los 12 años en el Rojo. Uno de los ídolos más importantes en el club lo observó, le gustó y lo fichó. Pero a los 16 fue transferido a Arsenal de Inglaterra."
+        
+    },
+    {
+        "nombre": "Sergio Melli Ortiz",
+        "posicion": "Mediocampo",
+        "goles": 1,
+        "epoca": "Actual",
+        "imagen": "./img/ortiz.png",
+        "detallesDiv": "Sergio Ortiz es una de las grandes apariciones de Independiente en el último tiempo. El futbolista de 22 años debutó profesionalmente el pasado 27 de julio del 2022 y desde la llegada de Ricardo Zienliski se transformó en un titular indiscutido."
+        
+    }
+]
